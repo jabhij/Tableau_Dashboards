@@ -1,7 +1,7 @@
 # Tableau Dashboards
-Consists brief info about all of my tableau dashboards. 
+Consists brief info about all of my tableau dashboards, insights that I got out of them, & the outcomes that I got after analyzing those visualizations.
 
-## Dashboards
+## Projects
 
 ### 1. FBI NICS Firearm Background DashBoard
    - **[Dashboard - 1](https://public.tableau.com/app/profile/abhishek7107/viz/FBINICSFirearmBackgroundCheckData-D2/Dashboard1)**
