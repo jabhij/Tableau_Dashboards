@@ -1,4 +1,4 @@
-# Tableau Dashboard
+# Tableau Dashboards
 Consists brief info about all of my tableau dashboards. 
 
 ## Dashboards
