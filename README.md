@@ -23,3 +23,11 @@ Consists of brief info about all of my tableau dashboards, insights that I got o
       
    - **Outcomes-**
       - This helps me in understanding my network and communicating with them for effective networking. For instance, I can connect with specific individuals if I'm looking for a role at a particular organization.
+
+### Catch me
+For any query, ping me on 
+- LinkedIn: [@jabhij](https://www.linkedin.com/in/jabhij/)
+- Twitter: [@jabhij](https://twitter.com/jabhij)
+- Web: [LetUsTweak](http://letustweak.com)
+
+Hope, it helps!! ヅ
