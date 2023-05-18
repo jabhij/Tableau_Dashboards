@@ -28,11 +28,11 @@ Consists of brief info about all of my tableau dashboards, insights that I got o
    - **[Dashboard](https://public.tableau.com/app/profile/abhishek7107/viz/CustomerAnalysis_16844398535310/CustomerAnalysis)**
    - **Description-** The dashboard empowers businesses to make data-informed decisions and enhance customer experiences for sustainable growth.
    - **Insights-**
-      - This project is a try to showcase the use of guns across the US.
-      - It also represents why arm shootings or arm-related crimes are highest in the USA.
-      - The States with the highest crime rate has also higher numbers of guns.
+      - It provides a comprehensive view of customer behavior and insights. 
+      - It offers visualizations and metrics on customer acquisition, retention, segmentation, and geographic distribution. 
+      - Users can explore customer interactions and engagement metrics to optimize marketing strategies. 
    - **Outcomes-**
-      - It helped me in developing a crime rate scenario in San Francisco and how we can effectively handle that.
+      - The outcomes of analyzing the Customer Analysis Dashboard involve a more refined understanding of customers, targeted marketing strategies, improved customer acquisition and retention, localized marketing initiatives, and optimized customer engagement. These outcomes collectively contribute to driving business growth, enhancing customer experiences, and maintaining a competitive edge in the market.
 
 
 ### Catch me
