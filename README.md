@@ -6,6 +6,7 @@ Consists of brief info about all of my tableau dashboards, insights that I got o
 ### 1. FBI NICS Firearm Background DashBoard
    - **[Dashboard - 1](https://public.tableau.com/app/profile/abhishek7107/viz/FBINICSFirearmBackgroundCheckData-D2/Dashboard1)**
    - **[Dashboard - 2](https://public.tableau.com/app/profile/abhishek7107/viz/FBINICSFirearmBackgroundCheckData_16730558069400/Dashboard2)**
+   
    - **Description-** The NICS conducts background checks on people who want to own a firearm or explosive, as required by law. This dashboard is an attempt to showcase the impact of arms on the United States' crime rate.
    - **Insights-**
       - This project is a try to showcase the use of guns across the US.
@@ -16,16 +17,17 @@ Consists of brief info about all of my tableau dashboards, insights that I got o
 
 ### 2. LinkedIn Dashboard
    - **[Dashboard](https://public.tableau.com/app/profile/abhishek7107/viz/LinkedInDashBoard/LinkedinDashboard)**
+   
    - **Description-** This dashboard showcases my interactions & activities over LinkedIn.
    - **Insights-**
       - Presents info on my networks on LinkedIn (Message Leaderboard, organizations, etc.)
-      - Shows how many people on my Network work for a specific organization.
-      
+      - Shows how many people on my Network work for a specific organization.      
    - **Outcomes-**
       - This helps me in understanding my network and communicating with them for effective networking. For instance, I can connect with specific individuals if I'm looking for a role at a particular organization.
 
 ### 3. Customer Analysis
    - **[Dashboard](https://public.tableau.com/app/profile/abhishek7107/viz/CustomerAnalysis_16844398535310/CustomerAnalysis)**
+   
    - **Description-** The dashboard empowers businesses to make data-informed decisions and enhance customer experiences for sustainable growth.
    - **Insights-**
       - It provides a comprehensive view of customer behavior and insights. 
