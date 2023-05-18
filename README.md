@@ -24,6 +24,17 @@ Consists of brief info about all of my tableau dashboards, insights that I got o
    - **Outcomes-**
       - This helps me in understanding my network and communicating with them for effective networking. For instance, I can connect with specific individuals if I'm looking for a role at a particular organization.
 
+### 3. Customer Analysis
+   - **[Dashboard](https://public.tableau.com/app/profile/abhishek7107/viz/CustomerAnalysis_16844398535310/CustomerAnalysis)**
+   - **Description-** The dashboard empowers businesses to make data-informed decisions and enhance customer experiences for sustainable growth.
+   - **Insights-**
+      - This project is a try to showcase the use of guns across the US.
+      - It also represents why arm shootings or arm-related crimes are highest in the USA.
+      - The States with the highest crime rate has also higher numbers of guns.
+   - **Outcomes-**
+      - It helped me in developing a crime rate scenario in San Francisco and how we can effectively handle that.
+
+
 ### Catch me
 For any query, ping me on 
 - LinkedIn: [@jabhij](https://www.linkedin.com/in/jabhij/)
